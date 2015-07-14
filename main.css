@@ -1,0 +1,13 @@
+.body-border {
+     color: black;
+     text-align: center;
+     border-style: groove;
+     border-width: 20px
+     background-image:radial-gradient(5px);
+ }
+ .email{
+   position: fixed;
+     bottom:25;
+     right: 50px;
+     border: 3px solid #8AC007;
+ }
